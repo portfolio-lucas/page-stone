@@ -14,5 +14,6 @@ No código procurei fazer padrões, já que vi que em algumas seções sempre ti
 
 Também usei o https://excalidraw.com/ para fazer o protótipo do projeto, onde fiz a divisão da página em seções para facilitar o trabalho na hora de codar. 
 
-<img align="center" width="200px" heigth="200px" src="./img/prototipo-projeto.png" /> 
+<img align="center" width="300px" src="./img/prototipo-projeto.png" />
+
 
