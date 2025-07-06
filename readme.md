@@ -8,7 +8,7 @@
 Nesse projeto, fiz um clone da página do banco Stone. Onde usei HTML e CSS para desenvolver a Landing Page.
 No código procurei fazer padrões, já que vi que em algumas seções sempre tinha **Texto e imagem**, então procurei padronizar para poder economizar na hora de estilizar no CSS. Usei **GRID** para fazer a divisão de textos e imagens nas seções que tinha ambas.
 
-**Link do projeto:** https://lucasfelipedonascimento.github.io/page-stone/
+**Link do projeto:** https://page-stone.vercel.app/
 
 ---
 
